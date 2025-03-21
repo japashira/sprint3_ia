@@ -67,6 +67,6 @@ A base de dados foi gerada artificialmente para simular um histórico de pacient
 1️⃣ Clone o repositório:  
 2️⃣ Instale as dependências e bibliotecas
 3️⃣ Execute o notebook  
-4️⃣ O modelo será treinado e salvo
+4️⃣ O modelo será treinado e salvo no arquivo modelo_rf.pkl
 
 ---
